@@ -1,4 +1,10 @@
 body {
-background-color: rgb(252, 168, 252);
+background-color: rgb(143, 108, 143);
 
+}
+
+h1 {
+font-size: 100px;
+color: rgb(128, 122, 184);
+text-transform: lowercase;
 }
