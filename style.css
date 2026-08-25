@@ -1,6 +1,6 @@
 body {
 background-color: rgb(230, 189, 230);
-font-family: 'Indie Flower', cursive;
+font-family: "Indie Flower", cursive;
 }
 
 h1 {
@@ -33,7 +33,7 @@ h2:first-of-type {
 }
 
 h2:nth-of-type(2) {
-    background-color: #ff6b6b;
+    background-color: #9e6c6c;
 }
 
 h2:nth-of-type(3) {
