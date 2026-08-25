@@ -1,10 +1,41 @@
 body {
 background-color: rgb(230, 189, 230);
-
+font-family: 'Indie Flower', cursive;
 }
 
 h1 {
 font-size: 80px;
 color: rgb(74, 32, 102);
 text-transform: lowercase;
+}
+iframe {
+    width: 100%;
+    height: 400px;
+}
+.filme {
+    background-color: white;
+    padding: 15px;
+    margin: 30px auto;
+    border-radius: 20px;
+    max-width: 700px;
+    border: 4px dashed rgb(74, 32, 102);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h2:first-of-type {
+    background-color: #ffcc00;
+}
+
+h2:nth-of-type(2) {
+    background-color: #ff6b6b;
+}
+
+h2:nth-of-type(3) {
+    background-color: #4ecdc4;
 }
